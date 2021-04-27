@@ -84,4 +84,4 @@ lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ip
 
 ## Example image
 
-![Test](assets/images/linkedin-background.png)
+![Test](/tate-cms/images/linkedin-background.png)
